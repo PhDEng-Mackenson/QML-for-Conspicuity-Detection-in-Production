@@ -44,6 +44,37 @@ Team Member 2:
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
+The folder **WQ24_Final_Project** contains all the essential materials related to our final project on Quantum Machine Learning (QML), including Jupyter notebooks, a video presentation, and supporting documents.
+This project explores various quantum machine learning techniques using the Pennylane library. The project is structured across several tasks, each focusing on different aspects of quantum computing and machine learning.
+
+**Repository Contents**
+**Notebooks:**
+
+**Task 1: Introduction to Quantum Computing Using Pennylane**
+An introductory notebook covering the basics of quantum computing, demonstrating simple quantum circuits using the Pennylane framework.
+
+**Task 2: Variational Classifier**
+This notebook delves into the implementation of a variational quantum classifier, highlighting its potential for solving classification problems.
+
+**Task 3: Quantum Convolutional Neural Network (QCNN)**
+Focused on developing and training a Quantum Convolutional Neural Network, this notebook explores how QCNNs can be utilized for image classification tasks(Iris dataset).
+
+**Task 4: Quantum Algorithm for Learning the Sine Function**
+In this notebook, we implement a quantum algorithm to learn the sine function over the interval [0,2π]. The approach showcases the power of quantum algorithms in function approximation.
+
+**Task 5: QCNN Application on Real-World Dataset**
+The final task notebook applies the QCNN model to a real-world dataset, specifically focusing on defect detection in industrial production. This notebook serves as a practical example of how quantum machine learning can be applied to solve complex problems in industry.
+
+**Video Presentation:**
+
+A video presentation summarizing the entire project, including methodology, results, and future work. The video link is also provided within the accompanying documents.
+**PowerPoint Presentation:**
+
+A PowerPoint document that complements the video presentation, providing a visual overview of the project’s objectives, approach, and findings.
+
+**Exploration**
+To explore the project, start by reviewing the Jupyter notebooks in sequential order, from Task 1 to Task 5. Each notebook builds upon the concepts introduced in the previous ones. The video and PowerPoint presentations are included for a high-level overview and summary of the project.
+
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
