@@ -33,13 +33,13 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Mackenson Polché
+ - Womanium Program Enrollment ID:WQ24-WSFiDD3sx3xmXcp
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Hein Zay Yar Oo
+ - Womanium Program Enrollment ID:WQ24-q6tQSmpB6om0EIl
 
 
 ### Project Solution:
@@ -47,7 +47,7 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+_Upload/ Link a 3min. presentation deck here._https://drive.google.com/file/d/1oHCtqZE5qPpxkRfeK1zR46bMs2MR1Q1Q/view?usp=sharing
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
